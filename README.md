@@ -1,2 +1,2 @@
 # Car-price-prediction-system-AI-Mini-Project
-It predicts the price of the cars based on its type of transmission,type of owner and years of usage and on so many other aspects which utilizes random forest,XG booster,and decision tree Algorithms
+Welcome to our GitHub repository for the Car Price Prediction System! This machine learning project utilizes algorithms such as Random Forest, Gradient Boosting, and Support Vector Regression to predict car prices based on features like transmission type, ownership history, age, and more. Dive in to explore our codebase and contribute to enhancing predictive accuracy and model efficiency. Let's drive innovation together! 🚗💻 #MachineLearning #CarPricePrediction #OpenSource
